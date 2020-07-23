@@ -75,3 +75,7 @@
 
 
 ## 4. Project Contributers
+ * Juyoung Park
+ * Junmyeong Choi
+ * NamKug Kim
+ 
