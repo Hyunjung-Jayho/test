@@ -20,7 +20,7 @@
 
   * 필요 부품(@ 주영쌤!!)
 
-  | 부품명                                    | 필요 갯수             |
+  | Name of Componet                          |     Num of parts neeeded        |
   | ----------------------------------------- | --------------------- |
   | CH340 board(compatible with arduino nano) | 1ea                   |
   | servo motor                               | 2ea                   |
