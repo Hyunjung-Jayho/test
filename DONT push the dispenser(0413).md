@@ -45,8 +45,6 @@
 
 
   * <u>Alcohol rub is recommended and necessary to reduce the cross contamination  especially for health workers or for the people entering the public space, but the surface of the pump could've been contaminated with (many people) and can possibly increase the risk of infection.</u>
-  * 의료종사자들이나, 많은 사람들이 모인 장소를 다녀 온 후 알코올이 들어간 소독제로 손을 소독하는 것은 장려됩니다. 하지만 손소독제 펌프의 표현은 다중의 사용으로 오염되어 있을 수 있고 오히려 감염 위험을 높일 수 있습니다. ( WHO 자료 찾아 읽기, 링크도 넣기.)
-  * 이 프로젝트는 이러한 작은 위험이라도 줄여 보고자 하는 목적으로 시작되었습니다.
 
 
 
@@ -77,19 +75,4 @@
   * [How to wash hand properly?](https://www.youtube.com/watch?v=4O0zkBQTgvI)
 
 
-
-## 4. To do
-
-* ```
-   * 장치 하우징을 통한 선 최소화 (건전지, 손세정제 교체가 용이하도록)-> 3dp 페이지 링크
-   * Agile 손세정제 작동 최적화
-   * LED 인디케이터 부착
-   * 양산 고려 최적화
-   * 따라 만들기 쉽게 설계도 및 제작기법, 제작과정 공개
-  ```
-
-
-
-
-
-## 5. Project Contributers
+## 4. Project Contributers
