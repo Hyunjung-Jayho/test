@@ -8,7 +8,7 @@
 
 # DONT push the dispenser
 
-* This program is developed to defeat novel corona virus(SARS-CoV-19) and overcome the pandemic of COVID - 19 all together with engineering. This project is a contributed by Medical Imaging and Intelligent Reality Lab in Asan Medical Center(AMC-MI2RL) in Seoul, Korea.
+* This program is developed to defeat novel corona virus(SARS-CoV-19) and overcome the pandemic of COVID - 19 all together with engineering. This project is a contribution of Medical Imaging and Intelligent Reality Lab in Asan Medical Center(AMC-MI2RL) in Seoul, Korea.
 * This device is made with a Arduino Nano CH340,  ultrasonic sen and two pieces of sg90 servo motors.
 * [Demo Video(YouTube link)](https://youtu.be/2AqtVSnK7Oo)
 
@@ -33,7 +33,7 @@
   -  Support **USB upload and power supply** as well as  **external power supply(DC 5V~12V)**
 - Use 5V-pin for 3.3V ~ 5.5V supply and
     use VIN-pin for 6V ~ 12V
-  -  Lower than 100 milliamperes(mA) of current is recommended for 5V 핀으로 출력하여 외부 모듈에 전기를 공급하실 때
+  -  Lower than 100 milliamperes(mA) of current is recommended when supply power to the external module using 5V pin
   - **Warning** :  Diode can be burnt with higher than 100mA, when using USB port power supply
   
 * Rationale 
