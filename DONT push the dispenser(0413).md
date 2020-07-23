@@ -67,9 +67,9 @@
   1. Download the "Arduino IDE"([You can find and download it by searching from Google](https://www.arduino.cc/en/main/OldSoftwareReleases)). 
   2. Connect CH340 to PC with USB connector
   3. Connect the devices like the image above
-  4. After setting  the 기본 세팅 of Arduino IDE, (이 방법이 어디에 나와 있죠?@ 주영쌤)
-  5. Open "DONT_dispenser.ino" and upload the **file** to Arduino with "Ctrl +u"  <u>**( 프로그램을 업로드하라고 되어 있는데 DONT_dispenser.ino 파일인가요? A: 네 맞습니다!)**</u>
-  6. Unconnect the USB line with PC and connec the 9V battery to (어디?).
+  4. After finishing  the basic setting of Arduino IDE.
+  5. Open "DONT_dispenser.ino" and upload the **file** to Arduino with "Ctrl +u"  
+  6. Unconnect the USB line with PC and connect the 9V battery to the device.
 * Run the device
   * If the hand approaches within 12cm from the ultrasould 센서?, the device will automatically pump the sanitizer.
   * [How to wash hand properly?](https://www.youtube.com/watch?v=4O0zkBQTgvI)
