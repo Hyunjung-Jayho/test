@@ -50,8 +50,7 @@
 
 ## 1. NEWS(20.03.19): DONT Push Dispenser ver 0.4
 
-* In the same axis of  "DONT/WASH", we developed non-contact type of  liquid dispenser in the purpose of reducing the cross contamination occured at the surface of pump-type hand sanitizers.
-* (추가 제안) 자동분사타입의 손세정제의 사용이 가능하지 않을 때 이 장치가 유용할 것입니다. 
+* In the same axis of  "DONT/WASH", we developed non-contact type of  liquid dispenser in the purpose of reducing the cross-contamination, which can occur when touching at the surface of pump-type hand sanitizers.
 
 
 
